@@ -1,0 +1,2 @@
+the function fib takes a very long time compared to the others
+
